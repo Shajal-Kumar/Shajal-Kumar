@@ -1,52 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=//+SYSTEM_AUTHORIZED_ACCESS;GENERATOR_UI+v2.0" alt="Typing SVG" />
-</p>
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│ SUBJECT: SHAJAL KUMAR CHAUDHARY                     [ STATUS: ACTIVE ]           │
-│ LOCATION: DELHI_TECH_UNIV                           IP: 127.0.0.1.X              │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
-<p align="center">
-<kbd>💻 <SDE></kbd> <b>×</b> <kbd>🔐 <CYBERSECURITY></kbd>
+# 💫 About Me:
 <br>
-<i>"Entering the mainframe from New Delhi, India."</i>
-</p>
-<p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=00FF41" /></a>
-<a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000&color=00FF41" /></a>
-<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000&color=00FF41" /></a>
-<a href="mailto:shajalapsdel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=00FF41" /></a>
-</p>
-🗂️ > WHOAMI
-shajal@mainframe:~$ cat profile.txt
+Hi! I'm Shajal, a Software Engineering Undergrad from Delhi Technological University. Welcome to my GitHub Profile!
 
-> Name: Shajal Kumar Chaudhary
-> Role: Software Engineering Undergrad @ DTU (Est. 2027)
-> Current_Op: Cybersecurity Intern @ I4C, Ministry of Home Affairs
-> Faction: Cybersecurity Team Head @ GDG DTU
-> Certs: Google Cybersecurity Professional, Google AI Essentials
 
-🛠️ > ARSENAL
-Category	Tools / Concepts
-<Cyber_Tools>	Wireshark Nmap Ghidra Suricata theHarvester Spiderfoot Exiftool
-<Op_Concepts>	Threat Intelligence Malware Analysis OSINT Incident Response SOC Ops
-<Languages>	Python Go C SQL Bash
-<Frameworks>	Flask Selenium BeautifulSoup Textual Argparse
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumarshajal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shajal-kumar-chaudhary-36693718b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shajalapsdel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15494586/shajal-kumar-chaudhary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shajal_kumar) 
 
-🚀 > EXECUTABLES (PROJECTS)
-God's Eye - OSINT Tool
-Architected a fault-tolerant pipeline with dynamic source fallback and HITL verification.
-Hermes - IRC Client
-Terminal-based IRC Client using thread-safe callbacks and RFC 1459 protocol synchronization.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shajal-Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shajal-Kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shajal-Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📊 > SYSTEM_METRICS
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Shajal-Kumar&theme=tokyonight&hide_border=false&show_icons=true&color_stat=00FF41&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=000000" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shajal-Kumar&theme=tokyonight&layout=compact&hide_border=false&color_stat=00FF41&title_color=00FF41&text_color=ffffff&bg_color=000000" width="300" />
-</p>
-code
-Text
-SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae...  BUILD_ID: 99x_RAD_SYNTH
-"Code is the only law in the digital wasteland."
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shajal-Kumar&icon=10&color=13)](https://visitcount.itsvg.in)
