@@ -20,8 +20,6 @@
 <a href="mailto:shajalapsdel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=00FF41" /></a>
 </p>
 🗂️ > WHOAMI
-code
-Bash
 shajal@mainframe:~$ cat profile.txt
 
 > Name: Shajal Kumar Chaudhary
@@ -29,19 +27,20 @@ shajal@mainframe:~$ cat profile.txt
 > Current_Op: Cybersecurity Intern @ I4C, Ministry of Home Affairs
 > Faction: Cybersecurity Team Head @ GDG DTU
 > Certs: Google Cybersecurity Professional, Google AI Essentials
+
 🛠️ > ARSENAL
 Category	Tools / Concepts
 <Cyber_Tools>	Wireshark Nmap Ghidra Suricata theHarvester Spiderfoot Exiftool
 <Op_Concepts>	Threat Intelligence Malware Analysis OSINT Incident Response SOC Ops
 <Languages>	Python Go C SQL Bash
 <Frameworks>	Flask Selenium BeautifulSoup Textual Argparse
+
 🚀 > EXECUTABLES (PROJECTS)
-capa - Open Source Malware Analysis (Mandiant)
-Engineered user-selectable annotations & backend-agnostic string length config for IDA/Ghidra.
 God's Eye - OSINT Tool
 Architected a fault-tolerant pipeline with dynamic source fallback and HITL verification.
 Hermes - IRC Client
 Terminal-based IRC Client using thread-safe callbacks and RFC 1459 protocol synchronization.
+
 📊 > SYSTEM_METRICS
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Shajal-Kumar&theme=tokyonight&hide_border=false&show_icons=true&color_stat=00FF41&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=000000" width="400" />
